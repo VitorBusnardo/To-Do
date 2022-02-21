@@ -1,6 +1,6 @@
 # To-Do - Quest Application
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador VitorBusnardo">
 
 <p align="justify"> 
   Totalmente desenvolvido em Java, nosso campo minado tem o intuito de treinar e realizar com perfeição a tão famosa Orientação a Objeto. Por meio dessas, foi desenvolvido esse projeto interativo com o usuário que se constitui em um classico campo minado, em que as regras todos conhecem, com uma interface gráfica muito bela e bem distribuida. Utilizando a IDE Eclipse para demonstrar a minha familiarização com a mesma, assim me tortando bem ecletico.
