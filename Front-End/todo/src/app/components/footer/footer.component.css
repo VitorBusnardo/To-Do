@@ -1,0 +1,11 @@
+.footer{
+    height: 5%;
+    position: fixed;
+    bottom: 0;
+    justify-content: flex-end;
+    font-size: 1rem;
+}
+
+p {
+    margin: 1em;
+}
