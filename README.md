@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java(Spring Boot 2), Angular 11(JavaScript e TypeScript), HTML5, CSS3.</strong>
+  🦄 Linguagens: <strong>Java(Spring Boot 2), Angular 11(JavaScript e TypeScript), HTML5 e CSS3.</strong>
 </p>
 
 <p align="left">
