@@ -3,16 +3,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador VitorBusnardo">
 
 <p align="justify"> 
-  Totalmente desenvolvido em Java, nosso campo minado tem o intuito de treinar e realizar com perfeição a tão famosa Orientação a Objeto. Por meio dessas, foi desenvolvido esse projeto interativo com o usuário que se constitui em um classico campo minado, em que as regras todos conhecem, com uma interface gráfica muito bela e bem distribuida. Utilizando a IDE Eclipse para demonstrar a minha familiarização com a mesma, assim me tortando bem ecletico.
+  Visando colecionar e aperfeiçoar conhecimentos, foi desenvolvido o seguinte projeto que se define em permitir ao usuário criar listas de tarefas para organizar o seu dia ou semana de forma simples e rápida. Utilizando tecnologias como Spring Boot 2, totalmente orientado a objeto para realizar o funcionamento do Back-End, e para o ambiente visual de interação(Front-End) foi devidamente utilizado componentes Angular 11(Angular Material) com respectivas tecnologias de estilizações presentes no dia a dia. Já no funcionamento do banco de dados foi usado o Java Persistence(JPA), uma API padrão da linguagem Java que descreve uma interface comum para frameworks de persistência de dados.
 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java (Spring Boot 2), Angular 11(JavaScript e TypeScript), HTML5, CSS3.</strong>
+  🦄 Linguagens: <strong>Java(Spring Boot 2), Angular 11(JavaScript e TypeScript), HTML5, CSS3.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Eclipse IDE com Java 15 e VsCode </strong>
+  💼 Ferramentas: <strong>Eclipse IDE(Spring Tools 4) e VsCode </strong>
 </p>
 
 <p align="left">
